@@ -3,6 +3,9 @@
     <h1 align="center">
         NICE: NoIse-modulated Consistency rEgularization for Data-Efficient GANs
     </h1>
+    <p align="center">
+    <img src="assets/nice_pipeline_final.jpg" alt="Overview" width="100%">
+  </p>
 
   <p align="center">
     <strong>NeurIPS 2023</strong>
