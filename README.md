@@ -14,10 +14,10 @@
   
   <p align="center">
     <a href='https://openreview.net/forum?id=YFW6MVGVTn'>
-      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=Googlescholar&logoColor=blue' alt='Paper PDF'>
+      <img src='https://img.shields.io/badge/Paper-OpenReview-80261B?style=flat&logo=Googledocs&logoColor=white' alt='Paper OpenReview'>
     </a>
-    <a href='https://nips.cc/virtual/2023/poster/71306' style='padding-left: 0.5rem;'>
-      <img src='https://img.shields.io/badge/Youtube-Video-red?style=flat&logo=youtube&logoColor=red' alt='Youtube Video'>
+    <a href='https://nips.cc/virtual/2023/poster/71306'>
+      <img src='https://img.shields.io/badge/Video-NeurIPS-634687?style=flat&logo=youtube&logoColor=white' alt='Video NeurIPS'>
     </a>
   </p>
 </p>
